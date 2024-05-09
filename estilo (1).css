@@ -1,0 +1,18 @@
+
+h1#titulo{
+    background-color: rgb(10, 129, 233);
+    color: antiquewhite;
+    padding: 3%;
+    text-align: center;
+}
+fieldset{
+    width: 20%;
+}
+div#vapo{
+   display: flex;
+  aling-items: center;
+  justify-content: space-between;
+}
+form{
+    width: 30%;
+}
